@@ -1,33 +1,40 @@
 # Japanese Localization for Project MMO v1.20.1
 
-Japanese section is [available](#目次) in below this section.
+For the Japanese documentation, see [日本語の説明](#目次).
 
 ## Table of Contents
 
 1. [Summary](#summary)
-2. [Target Environment](#target-environment)
-3. [Installation](#installation)
-4. [Important Notes](#important-notes)
-5. [LICENSE](#license)
-6. [CREDIT](#credit)
+2. [Tested Environment](#tested-environment)
+3. [Prerequisites](#prerequisites)
+4. [Installation](#installation)
+5. [Important Notes](#important-notes)
+6. [LICENSE](#license)
+7. [CREDIT](#credit)
 
 ## Summary
 
 This is a translation resource pack that allows you to play version 1.7.40 of the Minecraft mod "[Project MMO](https://www.curseforge.com/minecraft/mc-mods/project-mmo)" for Minecraft 1.20.1 Forge in Japanese.  
 This is an unofficial resource pack, and some parts of the translation were generated using AI.  
 
-## Target Environment
+## Tested Environment
 
 *   **Minecraft:** 1.20.1
 *   **Forge**: 47.4.10
 *   **Project MMO:** 1.7.40
 
+## Prerequisites
+
+* Set up Minecraft: Java Edition 1.20.1 with Forge and install **Project MMO** before applying this pack. The versions used for testing are listed under [Tested Environment](#tested-environment).
+* This resource pack contains translations only. Install the target mod and any required dependencies separately.
+* Set the game language to Japanese (日本語) in the language settings.
+
 ## Installation
 
-1. Download the latest `.zip` file from **Releases**.
-2. Without extracting the downloaded ZIP file, place it in the `resourcepacks` folder where Minecraft Mod is installed.
-3. Launch Minecraft, then open "Options" > "Resource Packs."
-4. Select this pack from the list on the left, drag it to the right, and click "Done".
+1. Open the [latest release](https://github.com/oz-coden/japanese-localization-for-project-mmo-v1.20.1/releases/latest) and download the resource-pack ZIP file listed under **Assets**.
+2. Launch the Minecraft instance prepared above, open **Options > Resource Packs**, and open the pack folder from that screen.
+3. Place the downloaded ZIP in this folder without extracting it. This is the `resourcepacks` folder inside that instance's game directory.
+4. Return to the resource-pack screen, move this pack to the selected packs, and click **Done**.
 
 ## Important Notes
 
@@ -51,15 +58,16 @@ This project is released under the MIT License.
 
 1. [概要](#概要)
 2. [動作確認環境](#動作確認環境)
-3. [導入方法](#導入方法)
-4. [注意事項](#注意事項)
-5. [ライセンス](#ライセンス)
-6. [クレジット](#クレジット)
+3. [前提条件](#前提条件)
+4. [導入方法](#導入方法)
+5. [注意事項](#注意事項)
+6. [ライセンス](#ライセンス)
+7. [クレジット](#クレジット)
 
 ## 概要
 
 MinecraftのMOD「[Project MMO](https://www.curseforge.com/minecraft/mc-mods/project-mmo)」のMinecraft 1.20.1 Forge向けのバージョン1.7.40を日本語でプレイできるようにするための翻訳用リソースパックです。  
-これは非公式的なもので、また、翻訳の一部にAIを使用しています。
+非公式の翻訳リソースパックで、翻訳の一部にAIを使用しています。
 
 ## 動作確認環境
 
@@ -67,12 +75,18 @@ MinecraftのMOD「[Project MMO](https://www.curseforge.com/minecraft/mc-mods/pro
 *   **Forge**: 47.4.10
 *   **Project MMO:** 1.7.40
 
+## 前提条件
+
+* Minecraft: Java Edition 1.20.1のForge環境を用意し、**Project MMO**を事前に導入してください。動作確認に使用したバージョンは[動作確認環境](#動作確認環境)を参照してください。
+* このリソースパックに含まれるのは翻訳データのみです。対象MODと、そのMODが必要とする前提MODは別途導入してください。
+* ゲーム内の言語設定を「日本語」にしてください。
+
 ## 導入方法
 
-1. **Releases** から、最新の `.zip` ファイルをダウンロードします。
-2. ダウンロードしたZIPファイルは解凍せずに、Minecraft Modがインストールされている`resourcepacks`フォルダに配置してください。
-3. Minecraftを起動し、「設定」 > 「リソースパック」を開きます。
-4. 左側のリストからこのパックを選んで右側へ移動させ、「完了」を押します。
+1. [最新リリース](https://github.com/oz-coden/japanese-localization-for-project-mmo-v1.20.1/releases/latest)を開き、**Assets** にあるリソースパックのZIPファイルをダウンロードします。
+2. 上記の環境を用意したMinecraftのインスタンスを起動し、「設定」>「リソースパック」の画面からパックフォルダーを開きます。
+3. ダウンロードしたZIPファイルを解凍せず、そのフォルダーに配置します。配置先は、使用しているインスタンスのゲームディレクトリ内にある `resourcepacks` フォルダーです。
+4. リソースパックの画面に戻り、このパックを選択済みの一覧へ移動して「完了」を押します。
 
 ## 注意事項
 
