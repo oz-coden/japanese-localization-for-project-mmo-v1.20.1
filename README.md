@@ -19,7 +19,7 @@ This is an unofficial resource pack, and some parts of the translation were gene
 ## Target Environment
 
 *   **Minecraft:** 1.20.1
-*   **Forge**: 4.7.10
+*   **Forge**: 47.4.10
 *   **Project MMO:** 1.7.40
 
 ## Installation
@@ -64,7 +64,7 @@ MinecraftのMOD「[Project MMO](https://www.curseforge.com/minecraft/mc-mods/pro
 ## 動作確認環境
 
 *   **Minecraft:** 1.20.1
-*   **Forge**: 4.7.10
+*   **Forge**: 47.4.10
 *   **Project MMO:** 1.7.40
 
 ## 導入方法
